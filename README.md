@@ -22,7 +22,6 @@ The Library Management System is a software application designed to streamline t
 ### Prerequisites
 
 - [Python 3.8+](https://www.python.org/downloads/)
-- [Django](https://www.djangoproject.com/)
 - [SQLite](https://www.sqlite.org/) (or any other preferred database)
 
 ### Setup
