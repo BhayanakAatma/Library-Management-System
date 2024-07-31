@@ -40,3 +40,4 @@ We would like to thank all the contributors who have helped in making this proje
 
 - **[Lucky Nirankari](https://github.com/BhayanakAatma)** 
 - **[Mohd. Salim Shaik ](https://github.com/Salim-333)**
+- **[Vasant Pardeshi](https://github.com/Vas1261)**
